@@ -1,4 +1,5 @@
 git+git://github.com/jacobjma/abTEM@master#egg=abTEM
+ipyevents
 bqplot
 bqplot-image-gl
 voila
